@@ -338,26 +338,20 @@ Przyjmujemy sześć sprintów, z których każdy trwa dwa tygodnie.
 
 ### Harmonogram Epików
 
-| Epic | Sprinty | Okres | Cel |
+| Epic | Sprinty | Data rozpoczęcia | Data zakończenia |
 |---|---|---|---|
-| EPIC 5 – User Interface & System Integration | Sprint 1–2 | Tyg. 1–4 | Przygotowanie środowiska i podstawowej architektury |
-| EPIC 1 – Fuel Station Search | Sprint 2–3 | Tyg. 3–6 | Wyszukiwanie stacji i parametry tankowania |
-| EPIC 3 – Loyalty Programs & Discounts | Sprint 2–4 | Tyg. 3–8 | Obsługa programów i rabatów |
-| EPIC 2 – Fuel Price Comparison | Sprint 1–4 | Tyg. 1–8 | Obliczanie i porównywanie kosztów |
-| EPIC 4 – Offers & Data Management | Sprint 3–5 | Tyg. 5–10 | Integracja i kontrola danych |
-| EPIC 5 – User Interface & System Integration | Sprint 5–6 | Tyg. 9–12 | Integracja końcowa, testy i przygotowanie MVP |
+| EPIC 5 – User Interface & System Integration | Sprint 1–2 | 27.11.2026 | 25.12.2026 |
+| EPIC 1 – Fuel Station Search | Sprint 2–3 | 11.12.2026 | 08.01.2027 |
+| EPIC 3 – Loyalty Programs & Discounts | Sprint 2–4 | 11.12.2026 | 22.01.2027 |
+| EPIC 2 – Fuel Price Comparison | Sprint 1–4 | 27.11.2026 | 22.01.2027 |
+| EPIC 4 – Offers & Data Management | Sprint 3–5 | 25.12.2026 | 05.02.2027 |
+| EPIC 5 – User Interface & System Integration | Sprint 5–6 | 22.01.2027 | 19.02.2027 |
 
-### Wykres Gantta – wyłącznie Epiki
+**Planowany czas realizacji MVP: 12 tygodni.**
 
-| Epic | 1–2 tydz. | 3–4 tydz. | 5–6 tydz. | 7–8 tydz. | 9–10 tydz. | 11–12 tydz. |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| EPIC 1 – Search | | █ | █ | | | |
-| EPIC 2 – Comparison | █ | █ | █ | █ | | |
-| EPIC 3 – Loyalty | | █ | █ | █ | | |
-| EPIC 4 – Data Management | | | █ | █ | █ | |
-| EPIC 5 – UI & Integration | █ | █ | | | █ | █ |
+<img src="image.png" alt="Opis obrazu" width="600">
 
-Harmonogram ma charakter planistyczny. Nie oznacza, że poszczególne Epiki będą realizowane całkowicie niezależnie. Niektóre prace będą prowadzone równolegle.
+<img src="image-1.png" alt="Opis obrazu" width="600">
 
 ---
 
