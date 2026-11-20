@@ -8,6 +8,9 @@
 **Projekt:** ZPI – Zespołowy Projekt Informatyczny
 
 ---
+## 📖 Jira
+https://denislo1624.atlassian.net/jira/software/projects/FUEL/boards/1/backlog
+
 
 ## 📖 Opis projektu
 
