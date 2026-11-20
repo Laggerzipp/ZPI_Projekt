@@ -241,7 +241,7 @@ Jako kierowca chcę zobaczyć ranking stacji według rzeczywistego kosztu tankow
 - Obsługa braku danych.
 - Testy poprawności kolejności wyników.
 
-### UCZESTNIK 3 – Programy lojalnościowe i aktualność danych
+### Jacek Korona – Programy lojalnościowe i aktualność danych
 
 #### US-05 – Wybór posiadanych programów lojalnościowych
 
@@ -499,7 +499,7 @@ Do pierwszego sprintu wybieramy zadania związane z przygotowaniem i weryfikacj�
 | S1-01 | Analiza warunków rabatowych i ograniczeń | Uczestnik 1 | 3 |
 | S1-02 | Opracowanie algorytmu obliczania kosztu | Denys Liashenko | 5 |
 | S1-03 | Przygotowanie koncepcji modułu Node.js | Denys Liashenko | 3 |
-| S1-04 | Przygotowanie scenariuszy testowych | Uczestnik 3 | 3 |
+| S1-04 | Przygotowanie scenariuszy testowych | Jacek Korona | 3 |
 | S1-05 | Opracowanie modelu danych promocji | Uczestnik 1 | 2 |
 | S1-06 | Analiza wyników i dokumentacja PoC | Cały zespół | 2 |
 
