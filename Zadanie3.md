@@ -5,7 +5,7 @@
 **Skład zespołu:**
 - Uczestnik 1
 - Denys Liashenko
-- Uczestnik 3
+- Jacek Korona
 
 **Technologie:**
 - Frontend: React
