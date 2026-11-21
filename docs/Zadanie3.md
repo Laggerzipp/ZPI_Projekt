@@ -3,7 +3,7 @@
 ## Projekt: FuelRadar
 
 **Skład zespołu:**
-- Uczestnik 1
+- Bartłomiej Koczeń
 - Denys Liashenko
 - Jacek Korona
 
@@ -105,7 +105,7 @@ Zakres:
 
 Każdy z trzech członków zespołu przygotowuje dwie szczegółowe historyjki użytkownika.
 
-### UCZESTNIK 1 – Wyszukiwanie stacji paliw
+### Bartłomiej Koczeń – Wyszukiwanie stacji paliw
 
 #### US-01 – Wyszukiwanie stacji według lokalizacji
 
@@ -486,11 +486,11 @@ Do pierwszego sprintu wybieramy zadania związane z przygotowaniem i weryfikacj�
 
 | ID | Zadanie | Odpowiedzialny | Story Points |
 |---|---|---|---:|
-| S1-01 | Analiza warunków rabatowych i ograniczeń | Uczestnik 1 | 3 |
+| S1-01 | Analiza warunków rabatowych i ograniczeń | Bartłomiej Koczeń | 3 |
 | S1-02 | Opracowanie algorytmu obliczania kosztu | Denys Liashenko | 5 |
 | S1-03 | Przygotowanie koncepcji modułu Node.js | Denys Liashenko | 3 |
 | S1-04 | Przygotowanie scenariuszy testowych | Jacek Korona | 3 |
-| S1-05 | Opracowanie modelu danych promocji | Uczestnik 1 | 2 |
+| S1-05 | Opracowanie modelu danych promocji | Bartłomiej Koczeń | 2 |
 | S1-06 | Analiza wyników i dokumentacja PoC | Cały zespół | 2 |
 
 **Łączna estymacja: 18 Story Points.**
