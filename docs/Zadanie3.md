@@ -347,9 +347,7 @@ Przyjmujemy sześć sprintów, z których każdy trwa dwa tygodnie.
 | EPIC 4 – Offers & Data Management | Sprint 3–5 | 25.12.2026 | 05.02.2027 |
 | EPIC 5 – User Interface & System Integration | Sprint 5–6 | 22.01.2027 | 19.02.2027 |
 
-<img src="image.png" alt="Opis obrazu" width="600">
-
-<img src="image-1.png" alt="Opis obrazu" width="600">
+<img src="image-2.png" alt="Opis obrazu" width="600">
 
 ---
 
